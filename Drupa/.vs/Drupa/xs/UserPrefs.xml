@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D579D6AC-D29B-409E-9F7D-E0DEC446B2BE}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Drupa/AppShell.xaml.cs">
+    <Files>
+      <File FileName="Drupa/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Drupa/MainPage.xaml" Line="8" Column="25" />
+      <File FileName="Drupa/AppShell.xaml" Line="185" Column="38" />
+      <File FileName="Drupa/Helpers/FontAwesome 2.cs" Line="21" Column="23" />
+      <File FileName="Drupa/AppShell.xaml.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Drupa" expanded="True">
+            <Node name="Drupa" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True">
+                <Node name="AppShell.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Drupa PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
