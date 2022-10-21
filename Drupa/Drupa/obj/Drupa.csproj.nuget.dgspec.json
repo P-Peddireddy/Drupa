@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rushabhshah/Desktop/Android/Drupa/Drupa/Drupa/Drupa.csproj": {}
+    "/Users/davidbankys/Documents/GitHub/Drupa/Drupa/Drupa/Drupa.csproj": {}
   },
   "projects": {
-    "/Users/rushabhshah/Desktop/Android/Drupa/Drupa/Drupa/Drupa.csproj": {
+    "/Users/davidbankys/Documents/GitHub/Drupa/Drupa/Drupa/Drupa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rushabhshah/Desktop/Android/Drupa/Drupa/Drupa/Drupa.csproj",
+        "projectUniqueName": "/Users/davidbankys/Documents/GitHub/Drupa/Drupa/Drupa/Drupa.csproj",
         "projectName": "Drupa",
-        "projectPath": "/Users/rushabhshah/Desktop/Android/Drupa/Drupa/Drupa/Drupa.csproj",
-        "packagesPath": "/Users/rushabhshah/.nuget/packages/",
-        "outputPath": "/Users/rushabhshah/Desktop/Android/Drupa/Drupa/Drupa/obj/",
+        "projectPath": "/Users/davidbankys/Documents/GitHub/Drupa/Drupa/Drupa/Drupa.csproj",
+        "packagesPath": "/Users/davidbankys/.nuget/packages/",
+        "outputPath": "/Users/davidbankys/Documents/GitHub/Drupa/Drupa/Drupa/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "/Users/rushabhshah/.nuget/NuGet/NuGet.Config"
+          "/Users/davidbankys/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0-android",
